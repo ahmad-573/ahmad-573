@@ -4,13 +4,13 @@
 # <div align="center">Hi 👋, I'm Ahmad Mahmood</div>   
   
 
-- 🌱 I’m currently learning all about **_Deep Learning_**  
+- 🌱 I’m currently an MS CS Student at ETH Zurich focusing on theoretical ML and Computer Vision 
   
 
-- ❓ Ask me about anything related to **_AI/ML, Deep Learning, Algorithms, Data Structure, Discrete Mathematics_**  
+- ❓ Ask me about anything related to **_AI/ML, Deep Learning, Computer Vision, Algorithms, Data Structure, Discrete Mathematics_**  
   
 
-- 📫 How to reach me: _23100146@lums.edu.pk_  
+- 📫 How to reach me: _amahmood@student.ethz.ch_  
   
 
 <br/>  
